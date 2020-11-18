@@ -1,0 +1,6 @@
+# This file may be used to create an environment using:
+numpy
+pandas
+scipy
+cvxpy
+matplotlib
