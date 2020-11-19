@@ -4,7 +4,7 @@ This is the official repository that implements the following paper:
 
 > *Bingqing Chen, Jonathan Francis, Marco Pritoni, Soummya Kar, and Mario Bergés. 2020. COHORT: Coordination of Heterogeneous Thermostatically Controlled Loads for Demand Flexibility. In Proceedings of the 7th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys '20). ACM, New York, NY, USA, 31–40. https://doi.org/10.1145/3408308.3427980*
 
-[[teaser]](docs/Cohort_in_30s.pdf)[[slides]](docs/slides.pdf)[[paper]](https://dl.acm.org/doi/10.1145/3408308.3427980) 
+[[slides]](docs/slides.pdf)[[paper]](https://dl.acm.org/doi/10.1145/3408308.3427980)[[video]](https://dl.acm.org/doi/10.1145/3408308.3427980) 
 
 # Overview
 COHORT is a practical, scalable, and versatile solution for coordinating a large population of flexible building loads to jointly provide grid services, while ensuring the end-use requirements are satisfied at individual buildings. 
